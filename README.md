@@ -47,9 +47,9 @@ Now is time to create our first virtual machine! First, we'll go back to the sea
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/loR02ed.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+We want to be able to observe our Virtual Network within "Network Watcher". To do this, first we must locate Network Watcher on the home page or use the search bar to find it. Next what we need to do is move our Network Watcher into the same resource group as our Virtual Network. To do this, you'd click on "move" next to the resource group section on the Network Watcher's "essentials" drop down and move the watcher into the resoource group we previously created. If moved successfully, we should be able to see the topology of our virtual network we've created.
 </p>
 <br />
