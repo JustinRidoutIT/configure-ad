@@ -19,10 +19,14 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+1.  Create a Resource Group </br>
+2. Create a Windows 10 Virtual Machine (VM) </br>
+   -  a. While creating the VM, select the previously created Resource Group </br>
+   - b. While creating the VM, allow it to create a new Virtual Network (Vnet) and Subnet </br>
+3. Create a Linux (Ubuntu) VM </br>
+    - While create the VM, select the previously created Resource Group and Vnet </br>
+4. Observe Your Virtual Network within Network Watcher</br>
+
 
 <h2>Deployment and Configuration Steps</h2>
 
