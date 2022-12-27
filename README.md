@@ -39,10 +39,10 @@ Within Azure, the first thing we would do after setting up our subscription, wou
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hZGiVbJ.png" height="80%" width="80%" alt=""/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now is time to create our first virtual machine! First, we'll go back to the search bar and type in "Virtual Machines" or you can navigate to that page from the Home Page. On the Virtual Machines page, you would click on the "create" button to create our Azure Virtual Machine. There are a few options to choose from after hitting the create button, so be sure to choose the one that best suits your needs. Next, we need to fill out the details for our virtual machine, such as the resource gorup, the name, region, operating system, etc. We'll add this virtual machine to the resource group we just created in Step 1 and choose windows 10 as the operating system. We also need to create a username and passowrd for the virtual machine; be sure to write this down so you don't forget! Much like when creating our resource group, we will be prompted to review our Virtual Machine's settings before creation can finish. Make sure everything is good to go and then hit create. We'll follow these same steps when creating our second virtual machine. When creating our second virtual machine, make sure that you selecting the same region and size.
 </p>
 <br />
 
@@ -50,6 +50,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
